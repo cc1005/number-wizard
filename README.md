@@ -1,2 +1,2 @@
 # number-wizard
-A number wizard game (based of Udemy Unity 2D course)
+A number wizard game (based off Udemy Unity 2D course)
